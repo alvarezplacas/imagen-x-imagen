@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Multimodal Studio",
+  "description": "An advanced web application to edit images with text prompts, generate new images from descriptions, and create videos from a source image and prompt, all powered by the Gemini API.",
+  "requestFramePermissions": []
+}
